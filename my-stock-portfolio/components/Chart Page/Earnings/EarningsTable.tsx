@@ -1,7 +1,7 @@
 import React from 'react'
 
 interface EarningsRecord {
-  date?: string
+  "Date": string
   "Basic Average Shares"?: number | null
   "Basic EPS"?: number | null
   "Cost Of Revenue"?: number | null
